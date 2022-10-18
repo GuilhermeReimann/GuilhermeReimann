@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Guilherme Reimann 😁
 
- <div>
+ <div align="center" dir="auto">
    <a href="https://github.com/GuilhermeReimann">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeReimann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeReimann&layout=compact&langs_count=6&theme=tokyonight"/>
